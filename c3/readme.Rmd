@@ -14,8 +14,8 @@ date: "4/15/2018"
 
 ## Output data
 
-[R Script](https://github.com/karmenr/datasciencecoursera/blob/master/c3/run_analysis.R "run_analysis.R")
-[Tidy Data Table](https://github.com/karmenr/datasciencecoursera/blob/master/c3/tidyMainData.txt "tidyMainData.txt")
-[GitHub REPO](https://github.com/karmenr/datasciencecoursera/tree/master/c3 "GitHub Repo")
-[CodeBook](https://github.com/karmenr/datasciencecoursera/blob/master/c3/codebook.Rmd "CodeBook.")
-[ReadMe](https://github.com/karmenr/datasciencecoursera/edit/master/c3/readme.Rmd "ReadMe")
+- [R Script](https://github.com/karmenr/datasciencecoursera/blob/master/c3/run_analysis.R "run_analysis.R")
+- [Tidy Data Table](https://github.com/karmenr/datasciencecoursera/blob/master/c3/tidyMainData.txt "tidyMainData.txt")
+- [GitHub REPO](https://github.com/karmenr/datasciencecoursera/tree/master/c3 "GitHub Repo")
+- [CodeBook](https://github.com/karmenr/datasciencecoursera/blob/master/c3/codebook.Rmd "CodeBook.")
+- [ReadMe](https://github.com/karmenr/datasciencecoursera/edit/master/c3/readme.Rmd "ReadMe")
