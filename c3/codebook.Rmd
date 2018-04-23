@@ -35,4 +35,4 @@ You can download the data <http://archive.ics.uci.edu/ml/datasets/Human+Activity
 
 ## Readme.md
 
-For further insight look at the readme.md file
+For further insight look at the [readme file](https://github.com/karmenr/datasciencecoursera/blob/master/c3/readme.Rmd "readme.Rmd")
